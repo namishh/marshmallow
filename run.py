@@ -19,7 +19,7 @@ from giphy_client.rest import ApiException
 
 bot=commands.Bot(command_prefix="m! ")
 bot.remove_command('help')
-TOKEN= 'NzY1NTIxNzAwNjQwNTIyMjcx.X4WBpA.az7Yy84Q-7aowH93TqmaWKso9NA'
+TOKEN= 'Your Token Here'
 
 
 os.chdir('C:\\Users\\pande\\Documents\\Namish Pande\\CODING\\Projects\\Marshmallow Bot')
