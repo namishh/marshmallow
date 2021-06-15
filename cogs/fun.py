@@ -12,13 +12,13 @@ import os
 
 
 
-newsapi = NewsApiClient(api_key='9319a21a7472491897d5efd548f290dc')
+newsapi = NewsApiClient(api_key='Your Token')
 
 
 
 
-reddit = praw.Reddit(client_id = "EGO5A0fSrR1lfQ", client_secret = "IMxJH_5ebx68jd56QoflLe7zjpMehA", username = "Namish_Pande_2108",
-user_agent="harrybotter", check_for_async=False
+reddit = praw.Reddit(client_id = "ID", client_secret = "Secret", username = "XXXXXX",
+user_agent="BOTnAME", check_for_async=False
 )
 
 
